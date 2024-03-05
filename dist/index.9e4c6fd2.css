@@ -1,0 +1,51 @@
+.bg-container {
+  background-image: url("https://images.pexels.com/photos/1005324/literature-book-open-pages-1005324.jpeg?cs=srgb&dl=antique-book-book-bindings-1005324.jpg&fm=jpg");
+  background-size: cover;
+  height: 100vh;
+  padding: 20px;
+}
+
+.todo-card-header {
+  text-align: center;
+}
+
+.todo-card-title {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.todo-card-caption {
+  color: #fff;
+}
+
+.todo-card-description {
+  color: #90ee90;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.todo-card-footer {
+  text-align: center;
+}
+
+.button {
+  color: #fff;
+  background-color: orange;
+  width: 80px;
+  height: 40px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.text-under-line {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
